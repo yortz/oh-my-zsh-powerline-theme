@@ -28,3 +28,10 @@ Requirements
 * Z shell (zsh) : See [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) for more info.
 * iTerm 2 (for some reason this is not working at least for me on
   regular mac terminal on snow leopard so just use iTerm 2) : See [iTerm 2](http://www.iterm2.com/) for more info.
+
+Update
+---------
+
+Be sure to select your patched font in mac terminal: this fixes
+issues I was experiencing while loading the theme without using the
+correct patched font. 
